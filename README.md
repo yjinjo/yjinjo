@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <a href="https://spring.io/projects/spring-framework" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 
 <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
   
   
 ### Novice
