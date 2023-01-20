@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a> 
 <a href="https://nestjs.com/" target="_blank"><img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/></a>
   
-# Stats  
+# Stats
 ![yjinjo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjinjo&show_icons=true&theme=radical)
