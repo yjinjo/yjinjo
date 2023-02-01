@@ -4,8 +4,8 @@
 
 [⭐ Fav 🎧 | Youtube Playlist](https://www.youtube.com/playlist?list=PLXOsrNl3w2Q4ibjB5oC7eIBSPMGyxmwo5)
 
-### then
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0iD805d2i0ySz6d0M20cqT?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+### Playing
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31cgvdeinh2binzwsu6rm5t2zx2q&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
 <!--
 **yjinjo/yjinjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
