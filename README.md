@@ -2,7 +2,7 @@
 
 [🧑‍💻 with 🎧 | Youtube Playlist](https://www.youtube.com/playlist?list=PLXOsrNl3w2Q7QcXxDHfsDW0Pidql3Yhvp)
 
-[⭐️ with 🎤 | Youtube Playlist](https://www.youtube.com/playlist?list=PLXOsrNl3w2Q4ibjB5oC7eIBSPMGyxmwo5)
+[⭐ Fav 🎧 | Youtube Playlist](https://www.youtube.com/playlist?list=PLXOsrNl3w2Q4ibjB5oC7eIBSPMGyxmwo5)
 
 <!--
 **yjinjo/yjinjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
