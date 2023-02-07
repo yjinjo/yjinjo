@@ -5,7 +5,7 @@
 
 [⭐ Fav 🎧 | Youtube Playlist](https://www.youtube.com/playlist?list=PLXOsrNl3w2Q4ibjB5oC7eIBSPMGyxmwo5)
 
-[💿 K-pop 🎧  | Youtube Plylist](https://www.youtube.com/playlist?list=PLXOsrNl3w2Q7Ci5INyKKrnOuWOeV5pQOA)
+[💿 Aesthetic 🎧  | Youtube Plylist](https://www.youtube.com/playlist?list=PLXOsrNl3w2Q7Ci5INyKKrnOuWOeV5pQOA)
 
 ## I'm listening NOW 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31cgvdeinh2binzwsu6rm5t2zx2q&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=31cgvdeinh2binzwsu6rm5t2zx2q&redirect=true)
