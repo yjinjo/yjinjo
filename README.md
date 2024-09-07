@@ -3,8 +3,6 @@
 ## Archives 🎼
 [🧑‍💻 with 🎧 | Youtube Playlist](https://www.youtube.com/playlist?list=PLXOsrNl3w2Q7QcXxDHfsDW0Pidql3Yhvp)
 
-[⭐ Fav 🎧 | Youtube Playlist](https://www.youtube.com/playlist?list=PLXOsrNl3w2Q4ibjB5oC7eIBSPMGyxmwo5)
-
 [💿 Aesthetic 🎧  | Youtube Playlist](https://www.youtube.com/playlist?list=PLXOsrNl3w2Q7Ci5INyKKrnOuWOeV5pQOA)
 
 <!--
