@@ -30,9 +30,8 @@ Here are some ideas to get you started:
 <a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a> 
 
 ### Familiar
-<a href="https://www.rust-lang.org/" target="_blank"><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/></a> 
 <a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a> 
-
+<a href="https://www.rust-lang.org/" target="_blank"><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/></a> 
 
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat-square&logo=Postgresql&logoColor=white"/></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"></a>
