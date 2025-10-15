@@ -30,8 +30,7 @@ Here are some ideas to get you started:
 
 <a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a> 
 <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
-
-<a href="https://helm.sh/" target="_blank"><img src="https://img.shields.io/badge/Helm-#0F1689?style=flat-square&logo=Helm&logoColor=white"/></a>
+<a href="https://helm.sh/" target="_blank"><img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=Helm&logoColor=white"/></a>
 
 ### Familiar
 <a href="https://www.rust-lang.org/" target="_blank"><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/></a> 
